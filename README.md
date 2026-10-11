@@ -1,5 +1,6 @@
 ![splash](https://dan-cech-splashtext.vercel.app/api/splash)
 
+<!--
 ```
 
   ██████╗  █████╗ ███╗   ██╗       ██████╗███████╗ ██████╗██╗  ██╗
