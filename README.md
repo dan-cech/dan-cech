@@ -1,4 +1,4 @@
-![splash](https://dan-cech-splashtext.vercel.app/api/splash)
+![splash](https://dan-cech-splashtext.vercel.app/api/splash?t=Also%20visit%20my%20repos%21&t=Now%20with%20more%20bugs%21&t=Works%20on%20my%20machine%21&t=Gongo%20goop.&t=dan-cech)
 
 <!--
 ```
